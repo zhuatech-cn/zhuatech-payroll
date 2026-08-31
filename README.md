@@ -1,5 +1,9 @@
 # ZhuaTech Payroll｜知华科技薪酬管理系统
 
+## 企业级增强：薪资批次发放治理
+
+新增员工覆盖、银行令牌、个税社保、总额波动、职责分离、双负责人审批和文件签名门禁，详见 [薪资发放治理](docs/ENTERPRISE_PAYROLL_RELEASE.md)。
+
         > 把薪资核算、复核、审批和发放放进一条可追溯链路。
 
         [![Java 21](https://img.shields.io/badge/Java-21-315a70)](backend/pom.xml) [![Vue 3](https://img.shields.io/badge/Vue-3-42b883)](frontend/package.json) [![MySQL 8](https://img.shields.io/badge/MySQL-8-4479a1)](compose.yaml) [![个人非商用](https://img.shields.io/badge/license-personal%20non--commercial-b47b3a)](LICENSE)
