@@ -1,5 +1,7 @@
 # ZhuaTech Payroll｜知华科技薪酬管理系统
 
+[简体中文](README.md) | [English](README.en.md)
+
 ## 企业级增强：员工薪资明细计算
 
 新增应税/非应税收入、税前/税后扣减、累进税率分段和实发金额计算，并识别税率表覆盖缺口与负实发异常。接口为 `POST /api/advanced/payroll/calculate`。
